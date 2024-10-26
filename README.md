@@ -7,4 +7,7 @@ Praca omawia podstawowe zagadnienia związane z algorytmem sortowania szybkiego 
 # Zawartość
 Składa się z dwóch części
 - kodu źródłowego w języku c++
-- opracowania w postaci prezentacji 
+- opracowania w postaci prezentacji
+
+# Projekt na replicie
+[https://replit.com/@piotr-sobieraj/quicksort]()
