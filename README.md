@@ -10,4 +10,4 @@ Składa się z dwóch części
 - opracowania w postaci prezentacji
 
 # Projekt na replicie
-[https://replit.com/@piotr-sobieraj/quicksort]()
+https://replit.com/@piotr-sobieraj/quicksort
